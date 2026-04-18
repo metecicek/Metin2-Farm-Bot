@@ -1,4 +1,4 @@
-Metin2 Farm Botu<br>
+**Metin2 Farm Botu<br>
 
 Metin2’de manuel müdahale olmadan verimli bir şekilde farm yapmanıza yardımcı olmak için tasarlanmış otomatik bir araçtır. Python kullanılarak geliştirilmiş olup pyautogui, opencv, keyboard ve pydirectinput gibi çeşitli kütüphanelerden yararlanır. Bu bot; Metin taşlarını bulma gibi oyun içindeki birçok rutin görevi otomatikleştirir.
 
