@@ -1,11 +1,11 @@
-<h2>Metin2 Farm Botu<h2>
+<h2>Metin2 Farm Botu<h2><br>
 
 Metin2’de manuel müdahale olmadan verimli bir şekilde farm yapmanıza yardımcı olmak için tasarlanmış otomatik bir araçtır. Python kullanılarak geliştirilmiş olup pyautogui, opencv, keyboard ve pydirectinput gibi çeşitli kütüphanelerden yararlanır. Bu bot; Metin taşlarını bulma gibi oyun içindeki birçok rutin görevi otomatikleştirir.
 
 <img width="1366" height="768" alt="Farmbot" src="https://github.com/user-attachments/assets/db309eee-eb8d-4b6b-9077-3b4fbf3cd4a4" />
 
 
-<br><h>Çalıştırılması:<br><h>
+<br>Çalıştırılması:<br>
 
 Repo'yu indirdikten sonra gui.py dosyasındaki 107.kod satırındaki cascade değişkenine cascade.xml dosya yolunu yazın.<br>
 Bir tane CMD kısa kolu oluşturun ve başlama yeri olarak repoyu indirdiğiniz klasör yolunu yazın sorasında yönetici olarak çalıştırın daha sonra cd komutu ile klasörünüzüm olduğu dizine gidin.<br>
