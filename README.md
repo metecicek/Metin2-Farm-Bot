@@ -7,9 +7,9 @@ Metin2’de manuel müdahale olmadan verimli bir şekilde farm yapmanıza yardı
 
 <br>Çalıştırılması:<br>
 
-Repo'yu indirdikten sonra gui.py dosyasındaki 107.kod satırındaki cascade değişkenine cascade.xml dosya yolunu yazın.<br>
-Bir tane CMD kısa kolu oluşturun ve başlama yeri olarak repoyu indirdiğiniz klasör yolunu yazın sorasında yönetici olarak çalıştırın daha sonra cd komutu ile klasörünüzüm olduğu dizine gidin.<br>
-py -m pip install -r requirements.txt komutu ile önce bütün kütüphanelerin yüklendiğine emin olun ve py gui.py komutu ile farm botunun arayüzünü açın.<br>
+Repo'yu indirdikten sonra gui.py dosyasındaki 107.kod satırındaki cascade değişkenine cascade.xml dosya yolunuzu yazın.<br>
+Bir tane CMD kısa kolu oluşturun ve başlama yeri olarak repoyu indirdiğiniz klasör yolunu yazın sorasında yönetici olarak çalıştırın devamında cd komutu ile klasörünüzün olduğu dizine gidin.<br>
+py -m pip install -r requirements.txt komutu ile önce bütün kütüphanelerin yüklendiğine emin olun ve py gui.py komutu ile farm botunun kullanıcı arayüzünü açın.<br>
 Bulunduğunuz serverdaki map skill barındaki kamerayı saldır olarak değiştirin.<br>
 Arama butonuna basarak açılan selectbox'dan oyun ekranınızı seçin.<br>
 Botun arayüzünden Metin kesme sürenizi yazın ve başlata basın.<br>
