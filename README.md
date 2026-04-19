@@ -20,5 +20,5 @@ Bot optimizasyonu için YOLO entegrasyonu yapılarak, crash thread'lerin önüne
 Eğer Bot'dan win32ui.error: BitBlt failed hatası alınıyorsa, oyunda ekran yakalama engelli demektir. Bot stabil olarak çalışıyor, click var ama hareket yok ise bunun %90 sebebi serverda input filter/anti-cheat sistemi vardır. Private serverlar genelde SendInput bloklar sadece düşük seviye input kabul eder. Bu durumda pyautogui/pydirectinput yetersiz kalır, sorun sadece window focus + raw input injection ile çözülür. Input bloklanıyorsa, Win32 SendInput/ctypes tabanlı Metin2 input bypass sistemi, server’da çalışan gerçek tuş basma motoru ve pyautogui tamamen bypass yapılır.
 
 **Uyarı**<br>
-<br>Bu otomasyonun amacı, görüntü işleme mantığını öğretmek ve bu alanda pratik yapmayı sağlamaktır.<br>
+Bu otomasyonun amacı, görüntü işleme mantığını öğretmek ve bu alanda pratik yapmayı sağlamaktır.<br>
 3. taraf yazılımların kullanımı Metin2 tarafından yasaktır ve bu tür yazılımların kullanımı sonucunda oyun hesabınız kalıcı olarak banlanabilir.<br>
