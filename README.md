@@ -22,3 +22,5 @@ Eğer Bot'dan win32ui.error: BitBlt failed hatası alınıyorsa, oyunda ekran ya
 **Uyarı**<br>
 Bu otomasyonun amacı, görüntü işleme mantığını öğretmek ve bu alanda pratik yapmayı sağlamaktır.<br>
 3. taraf yazılımların kullanımı Metin2 tarafından yasaktır ve bu tür yazılımların kullanımı sonucunda oyun hesabınız kalıcı olarak banlanabilir.<br>
+
+YOLO test commit
