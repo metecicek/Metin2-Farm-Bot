@@ -15,7 +15,7 @@ Metin2’de manuel müdahale olmadan verimli bir şekilde farm yapmanıza yardı
 * Botun arayüzünden Metin kesme sürenizi yazın ve başlata basın.<br>
 * Oyun ekranı sabit kalmalı ve 800x600 pencere modunda oynanmalı.
 
-Bot optimizasyonu için YOLO entegrasyonu yapılarak, crash thread'lerin önüne geçilir ve daha hızlı çalışması sağlanır, bunun yanında eğitilmiş veri setleri kullanılarak mevcut bot AI seviyesine çıkarılabilinir.<br>
+Bot optimizasyonu için YOLO (You Only Look Once) entegrasyonu yapılarak, gerçek zamanlı nesne algılama (object detection) ve görüntü segmentasyonu yetenekleri ile crash thread'lerin önüne geçilir ve daha hızlı çalışması sağlanır, bunun yanında eğitilmiş veri setleri kullanılarak mevcut bot AI seviyesine çıkarılabilinir.<br>
 
 Eğer Bot'dan win32ui.error: BitBlt failed hatası alınıyorsa, oyunda ekran yakalama engelli demektir. Bot stabil olarak çalışıyor, click var ama hareket yok ise bunun %90 sebebi serverda input filter/anti-cheat sistemi vardır. Private serverlar genelde SendInput bloklar sadece düşük seviye input kabul eder. Bu durumda pyautogui/pydirectinput yetersiz kalır, sorun sadece window focus + raw input injection ile çözülür. Input bloklanıyorsa, Win32 SendInput/ctypes tabanlı Metin2 input bypass sistemi, server’da çalışan gerçek tuş basma motoru ve pyautogui tamamen bypass yapılır.
 
